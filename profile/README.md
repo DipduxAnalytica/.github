@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Dipdux analytica</h1>
+<h1 align="center">Hi 👋, Dipdux Analytica, LLC</h1>
 <h3 align="center">We Do Build..</h3>
 
 <h3 align="left">Connect with us:</h3>
